@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'JetBrains Mono';
+    src: url('../fonts/JetBrainsMonoNL.ttf') format('truetype');
+}
+
+:root {
+    --logo-col-1: #5A9FD4;
+    --logo-col-2: #FFE873;
+
+    --back-gradient-start: #001f37;
+    --back-gradient-end: #302800;
+
+    --primary-col: #FFE873;
+    --secondary-col: #5A9FD4;
+}
+
+
+

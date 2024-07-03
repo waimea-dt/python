@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="125px" height="125px" viewBox="0 0 125 125" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="objectBoundingBox" x1="26.648937" y1="20.60378" x2="135.66525" y2="114.39767" id="gradient_1">
+      <stop offset="0%" stop-color="#007FE1" />
+      <stop offset="100%" stop-color="#008CFF" />
+    </linearGradient>
+    <linearGradient gradientUnits="objectBoundingBox" x1="150.9611" y1="192.35176" x2="112.03144" y2="137.273" id="gradient_2">
+      <stop offset="0%" stop-color="#9F7C00" />
+      <stop offset="100%" stop-color="#FFD500" />
+    </linearGradient>
+    <path d="M125 0L125 0L125 125L0 125L0 0L125 0Z" id="path_1" />
+    <path d="M60.0266 7.50087C55.7094 7.52093 51.5865 7.88912 47.9588 8.53104C37.2721 10.419 35.3318 14.3708 35.3318 21.6584L35.3318 31.2832L60.5858 31.2832L60.5858 34.4915L35.3318 34.4915L25.8542 34.4915C18.5147 34.4915 12.088 38.9029 10.0778 47.2951C7.7591 56.9144 7.65625 62.917 10.0778 72.9611C11.873 80.4376 16.16 85.7647 23.4995 85.7647L32.1824 85.7647L32.1824 74.2268C32.1824 65.8913 39.3945 58.5387 47.9588 58.5387L73.1834 58.5387C80.205 58.5387 85.8104 52.7573 85.8104 45.7056L85.8104 21.6584C85.8104 14.8144 80.0367 9.67327 73.1834 8.53104C68.8451 7.80888 64.3438 7.48081 60.0266 7.50087L60.0266 7.50087ZM46.3694 15.2419C48.978 15.2419 51.1082 17.4069 51.1082 20.069C51.1082 22.7216 48.978 24.8667 46.3694 24.8667C43.7515 24.8667 41.6306 22.7216 41.6306 20.069C41.6306 17.4069 43.7515 15.2419 46.3694 15.2419L46.3694 15.2419Z" id="path_2" />
+    <path d="M92.9598 38.4941L92.9598 49.7083C92.9598 58.4025 85.5888 65.7202 77.1834 65.7202L51.9588 65.7202C45.0494 65.7202 39.3318 71.6337 39.3318 78.5532L39.3318 102.6C39.3318 109.444 45.2831 113.47 51.9588 115.433C59.9528 117.784 67.6186 118.209 77.1834 115.433C83.5412 113.593 89.8104 109.888 89.8104 102.6L89.8104 92.9757L64.5858 92.9757L64.5858 89.7674L89.8104 89.7674L102.437 89.7674C109.777 89.7674 112.512 84.6479 115.064 76.9638C117.701 69.0531 117.589 61.4457 115.064 51.2977C113.251 43.9912 109.786 38.4941 102.437 38.4941L92.9598 38.4941ZM78.7728 99.3922C81.3907 99.3922 83.5116 101.537 83.5116 104.19C83.5116 106.852 81.3907 109.017 78.7728 109.017C76.1642 109.017 74.034 106.852 74.034 104.19C74.034 101.537 76.1642 99.3922 78.7728 99.3922L78.7728 99.3922Z" id="path_3" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" clip-rule="evenodd" fill-rule="evenodd" />
+    </clipPath>
+    <clipPath id="clip_2">
+      <use xlink:href="#path_2" />
+    </clipPath>
+    <clipPath id="clip_3">
+      <use xlink:href="#path_3" />
+    </clipPath>
+  </defs>
+  <g id="python-logo" clip-path="url(#clip_1)">
+    <path d="M125 0L125 0L125 125L0 125L0 0L125 0Z" id="python-logo" fill="none" stroke="none" />
+    <g id="path1948">
+      <use xlink:href="#path_2" fill="none" stroke="#FFFFFF" stroke-width="14" />
+      <use stroke="none" fill="url(#gradient_1)" xlink:href="#path_2" fill-rule="evenodd" />
+      <g clip-path="url(#clip_2)">
+        <use xlink:href="#path_2" fill="none" stroke="#000000" stroke-width="4" />
+      </g>
+    </g>
+    <g id="path1950">
+      <use xlink:href="#path_3" fill="none" stroke="#FFFFFF" stroke-width="14" />
+      <use stroke="none" fill="url(#gradient_2)" xlink:href="#path_3" fill-rule="evenodd" />
+      <g clip-path="url(#clip_3)">
+        <use xlink:href="#path_3" fill="none" stroke="#000000" stroke-width="4" />
+      </g>
+    </g>
+  </g>
+</svg>
